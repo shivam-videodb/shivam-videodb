@@ -1,16 +1,21 @@
-## Hi there 👋
+### Shivam @ VideoDB
 
-<!--
-**shivam-videodb/shivam-videodb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building infrastructure for video — making it searchable, programmable, and AI-ready.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work on**
+
+- Video understanding pipelines and multimodal AI
+- Evaluation frameworks for retrieval and generation
+- Developer tools that make working with video feel like working with text
+
+---
+
+**Stack**
+
+Python · TypeScript · LLMs · Vector Search · MERN
+
+---
+
+[videodb.io](https://videodb.io) &nbsp;|&nbsp; [@thexshivam](https://github.com/thexshivam)
